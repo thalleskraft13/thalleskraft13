@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://ayamihoshiori.website/images/banners/boasvindas.png" alt="Banner de boas-vindas" width="100%">
+</div>
+
+<div align="center">
   <img src="https://ayamihoshiori.website/images/emotes/pose.png" alt="" width="140">
 
   # Oi, eu sou Thalles 
@@ -15,23 +19,23 @@
 
 ## Sobre mim
 
-Comecei desenvolvendo meus próprios projetos e, com o tempo, passei também a criar bots e sites para outras pessoas. Hoje minha principal frente é a **Ayami Hoshiori** , um projeto que comecei sozinho e que venho construindo e expandindo há tempo.
+Comecei desenvolvendo meus próprios projetos e, com o tempo, passei também a criar bots e sites para outras pessoas. Hoje minha principal frente é a **Ayami Hoshiori**, um projeto que comecei sozinho e que venho construindo e expandindo há tempo.
 
 ## A Ayami não é só um bot
 
-A ideia por trás da Ayami é ser **um Criador para o Discord**: em vez de entregar um conjunto fechado de comandos, ela dá pra qualquer pessoa(sem saber programar) montar seus próprios sistemas, com gatilhos, condições e ações. É o projeto onde coloco a maior parte do que aprendo sobre arquitetura, automação e experiência de usuário.
+A ideia por trás da Ayami é ser **um Criador para o Discord**: em vez de entregar um conjunto fechado de comandos, ela dá pra qualquer pessoa (sem saber programar) montar seus próprios sistemas, com gatilhos, condições e ações. É o projeto onde coloco a maior parte do que aprendo sobre arquitetura, automação e experiência de usuário.
 
 O coração disso é o **Logic Engine**: três formas diferentes de criar automação (Logic Builder visual por blocos, Logic Nodes em grafo de nós, e Logic Script como linguagem própria), pensadas pra atender desde quem nunca programou até quem quer controle total.
 
 ## O que eu faço
 
-**🤖 Bots para Discord**
+**Bots para Discord**
 Desenvolvimento com JavaScript/Node.js e a API do Discord: comandos personalizados, sistemas sob medida, banco de dados, integrações e, quando faz sentido, manutenção e hospedagem.
 
-**📡 Bots para Twitch**
+**Bots para Twitch**
 Bots para chat: mensagens e comandos automáticos, moderação, integrações e alertas para streamers.
 
-**🌐 Sites**
+**Sites**
 Sites responsivos, principalmente com React.js, landing pages, sites institucionais, portfólios e páginas personalizadas.
 
 ## Projetos
@@ -53,10 +57,10 @@ Sites responsivos, principalmente com React.js, landing pages, sites institucion
 
 ## Links
 
-- 🌐 Portfólio completo: [ayamihoshiori.website/portfolio/thalles](https://ayamihoshiori.website/portfolio/thalles)
-- 🐦 Projeto: [Ayami Hoshiori](https://ayamihoshiori.website/)
-- 📷 Instagram: [@thalles_0505](https://www.instagram.com/thalles_0505/)
+- Portfólio completo: [ayamihoshiori.website/portfolio/thalles](https://ayamihoshiori.website/portfolio/thalles)
+- Projeto: [Ayami Hoshiori](https://ayamihoshiori.website/)
+- Instagram: [@thalles_0505](https://www.instagram.com/thalles_0505/)
 
 <div align="center">
-  <sub>Eu construo coisas. ✨</sub>
+  <sub>Eu construo coisas.</sub>
 </div>
