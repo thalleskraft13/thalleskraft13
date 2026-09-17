@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://ayamihoshiori.website/images/banners/boasvindas.png" alt="Banner de boas-vindas" width="100%">
+  <img src="https://ayamihoshiori.website/images/banners/boasvindas.png" alt="Banner de boas-vindas" width="600">
 </div>
-
+<br>
 <div align="center">
-  <img src="https://ayamihoshiori.website/images/emotes/pose.png" alt="" width="140">
 
   # Oi, eu sou Thalles 
 
